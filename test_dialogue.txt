@@ -1,0 +1,13 @@
+sample_dialogue = """
+John: Hey Sarah, have you seen the latest tech gadget reviews? I found this new smartwatch that's supposed to have amazing health tracking features.
+John: It tracks heart rate, blood oxygen levels, sleep patterns, and even stress levels! It sounds like something right up your alley. 
+Sarah: That sounds really interesting! But I’ve been trying to cut down on tech distractions. I’ve heard these devices can be really overwhelming sometimes.
+Sarah: I do think it’s cool that they can track so many health metrics though. I’m curious how accurate they really are.
+John: Yeah, me too! There are also some new smartphones coming out with even better cameras and longer battery life. The new flagship model from XYZ brand has some insane specs.
+Sarah: Ooh, I haven’t kept up with phones recently, but I’ve heard the camera quality is getting ridiculously good. It’s almost like a professional camera in your pocket now!
+Sarah: Still, I feel like I’m fine with my current phone for now. I don’t really feel the need to upgrade unless something really groundbreaking comes out.
+John: Totally understand that. It’s the same with me. But I think the battery life improvements are enough to make me consider it. I hate running out of battery when I’m out and about.
+Sarah: That’s fair! I’m always worried about battery life too. Honestly, I think phones should last at least two full days on a single charge by now.
+John: I agree! It’s so annoying when your phone dies in the middle of the day. I wonder if we’ll ever get to a point where we don’t have to charge our phones every day.
+Sarah: That would be amazing! I think as tech improves, battery tech might also catch up. Let’s hope the next generation of phones can last longer!
+"""
